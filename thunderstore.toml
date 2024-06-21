@@ -1,0 +1,36 @@
+[config]
+schemaVersion = "0.0.1"
+
+
+[package]
+namespace = "nbusseneau"
+name = "Colored_Food_UI"
+versionNumber = "0.0.1"
+description = "Color food UI backgrounds based on their dominant stat. Client-side, no configuration."
+websiteUrl = "https://github.com/nbusseneau/ColoredFoodUI"
+containsNsfwContent = false
+
+[package.dependencies]
+denikson-BepInExPack_Valheim = "5.4.2202"
+
+
+[build]
+icon = "./icon.png"
+readme = "./README.md"
+outdir = "./build"
+
+[[build.copy]]
+source = "./CHANGELOG.md"
+target = "./CHANGELOG.md"
+
+[[build.copy]]
+source = "./src/bin/Release/ColoredFoodUI.dll"
+target = "./plugins/ColoredFoodUI.dll"
+
+
+[publish]
+repository = "https://thunderstore.io"
+communities = [ "valheim", ]
+
+[publish.categories]
+valheim = [ "client-side", "mods", "ashlands-update", ]
