@@ -1,6 +1,7 @@
 # Colored Food UI
 
-Very simple [Valheim](https://store.steampowered.com/app/892970/Valheim/) mod that colors food UI backgrounds based on their dominant stat. Client-side, no configuration.
+Very simple [Valheim](https://store.steampowered.com/app/892970/Valheim/) mod that colors food UI backgrounds based on their dominant stat.
+Client-side, no configuration.
 
 ## But why?
 
@@ -16,12 +17,12 @@ It uses the exact same colors as the ones used by Valheim for the fork symbol di
 
 **Colored Food UI** recolors the vanilla food UI backgrounds and will conflict with any UI mod that touches them.
 It should work transparently with everything else, including mods that add new food items.
-Feel free to [report any issue you find](https://github.com/nbusseneau/BetterCartographyTable/issues/new).
+Feel free to [report any issue you find](https://github.com/nbusseneau/ColoredFoodUI/issues/new).
 
 ## Install
 
 This is a client-side mod.
-If installed on the server, it will do nothing.
+It does not need to be installed on the server.
 
 ### Thunderstore (recommended)
 
