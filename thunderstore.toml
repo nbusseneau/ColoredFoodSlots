@@ -6,7 +6,7 @@ schemaVersion = "0.0.1"
 namespace = "nbusseneau"
 name = "Colored_Food_UI"
 versionNumber = "0.0.1"
-description = "Color food UI backgrounds based on their dominant stat. Client-side, no configuration."
+description = "Colors food UI backgrounds based on their dominant stat. Client-side, no configuration."
 websiteUrl = "https://github.com/nbusseneau/ColoredFoodUI"
 containsNsfwContent = false
 
