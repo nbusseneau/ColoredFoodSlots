@@ -13,7 +13,7 @@ It uses the exact same colors as the ones used by Valheim for the fork symbol di
 - **Blue**: eitr-dominant
 - **White**: mixed
 
-### Compatibility with other mods
+## Compatibility with other mods
 
 **Colored Food UI** recolors the vanilla food UI backgrounds and will conflict with any UI mod that touches them.
 It should work transparently with everything else, including mods that add new food items.
