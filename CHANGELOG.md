@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+
+- Minor fixes to README and mod icon.
+
 ## [0.0.1] - 2024-06-21
 
 - Initial version.
