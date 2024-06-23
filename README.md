@@ -3,15 +3,19 @@
 Very simple [Valheim](https://store.steampowered.com/app/892970/Valheim/) mod that colors food UI backgrounds based on their dominant stat.
 Client-side, no configuration.
 
+## Features
+
+- Food UI backgrounds are colored based on food type:
+  - **Red**: health-dominant
+  - **Yellow**: stamina-dominant
+  - **Blue**: eitr-dominant
+  - **White**: mixed
+- Uses Valheim's food type colors (the fork symbol displayed on food icons in the inventory).
+
 ## But why?
 
-**Colored Food UI** helps you visualize your diet mix at a glance so you can easily know what's running out soon or what's missing based on recognizable colored backgrounds.
-It uses the exact same colors as the ones used by Valheim for the fork symbol displayed on food icons in the inventory:
-
-- **Red**: health-dominant
-- **Yellow**: stamina-dominant
-- **Blue**: eitr-dominant
-- **White**: mixed
+**Colored Food UI** helps you visualize your diet mix at a glance using recognizable colored backgrounds.
+You immediately know what type of food is running out soon or what is currently missing, which is particularly helpful when your mix uses food with different durations and they run out in combat at different intervals.
 
 ## Compatibility with other mods
 
@@ -21,8 +25,12 @@ Feel free to [report any issue you find](https://github.com/nbusseneau/ColoredFo
 
 ## Install
 
-This is a client-side mod.
-It does not need to be installed on the server.
+- This is a client-side mod, and does not need to be installed on the server.
+- If installed on the server, it will do nothing.
+
+In other words:
+
+- This mod can be installed on your side as a client, and you will still be able to join any server (even vanilla ones).
 
 ### Thunderstore (recommended)
 
