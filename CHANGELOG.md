@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2024-06-24
+
 ### Added
 
 - Add video showcase to README.
@@ -25,6 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial version.
 
-[unreleased]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.1.0...HEAD
+[unreleased]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.1.1...HEAD
+[0.1.1]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.1.0...0.1.1
 [0.1.0]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.0.1...0.1.0
 [0.0.1]: https://github.com/nbusseneau/ColoredFoodUI/compare/898edac676143f56c91734b38f756fb45d858e26...0.0.1
