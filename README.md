@@ -3,6 +3,10 @@
 Very simple [Valheim](https://store.steampowered.com/app/892970/Valheim/) mod that colors food UI backgrounds based on their dominant stat.
 Client-side, no configuration.
 
+## Video showcase
+
+https://github.com/nbusseneau/ColoredFoodUI/assets/4659919/73388937-de2b-43f2-94c7-62746b3a599b
+
 ## Features
 
 - Food UI backgrounds are colored based on food type:

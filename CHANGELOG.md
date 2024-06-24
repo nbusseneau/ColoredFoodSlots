@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Add video showcase to README.
+
 ### Changed
 
 - Improve README, notably clarifications around compatibility.
