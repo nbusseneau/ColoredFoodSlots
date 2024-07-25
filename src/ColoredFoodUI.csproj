@@ -43,7 +43,7 @@
     <Reference Include="0Harmony">
       <HintPath>$(BepInExPath)\core\0Harmony.dll</HintPath>
     </Reference>
-    <Reference Include="assembly_valheim_publicized">
+    <Reference Include="assembly_valheim">
       <HintPath>$(PublicizedPath)\assembly_valheim_publicized.dll</HintPath>
     </Reference>
     <Reference Include="BepInEx">
