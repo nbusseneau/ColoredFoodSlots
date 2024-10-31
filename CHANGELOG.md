@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2024-10-31
+
 ### Changed
 
 - Support for 0.219.13 (The Bog Witch).
@@ -31,7 +33,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial version.
 
-[unreleased]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.1.1...HEAD
+[unreleased]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.2.0...HEAD
+[0.2.0]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.1.1...0.2.0
 [0.1.1]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.1.0...0.1.1
 [0.1.0]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.0.1...0.1.0
 [0.0.1]: https://github.com/nbusseneau/ColoredFoodUI/compare/898edac676143f56c91734b38f756fb45d858e26...0.0.1
