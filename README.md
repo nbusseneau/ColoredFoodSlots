@@ -45,7 +45,7 @@ In other words:
 
 - **[Prerequisites]**
   - Install [**BepInExPack Valheim**](https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/).
-- Download [nbusseneau-Colored_Food_UI-0.2.0.zip](https://github.com/nbusseneau/ColoredFoodUI/releases/latest/download/nbusseneau-Colored_Food_UI-0.2.0.zip).
+- Download [nbusseneau-Colored_Food_UI-0.2.1.zip](https://github.com/nbusseneau/ColoredFoodUI/releases/latest/download/nbusseneau-Colored_Food_UI-0.2.1.zip).
 - Extract the archive and move everything to your `BepInEx/plugins/` directory. It should look like this:
   ```
   BepInEx/

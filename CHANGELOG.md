@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.1] - 2025-03-06
+
 ### Changed
 
 - Support for 0.220.3.
@@ -37,7 +39,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial version.
 
-[unreleased]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.2.0...HEAD
+[unreleased]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.2.1...HEAD
+[0.2.1]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.2.0...0.2.1
 [0.2.0]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.1.1...0.2.0
 [0.1.1]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.1.0...0.1.1
 [0.1.0]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.0.1...0.1.0

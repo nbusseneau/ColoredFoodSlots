@@ -8,7 +8,7 @@ public class Plugin : BaseUnityPlugin
 {
   private const string ModGUID = "nbusseneau.ColoredFoodUI";
   private const string ModName = "ColoredFoodUI";
-  private const string ModVersion = "0.2.0";
+  private const string ModVersion = "0.2.1";
 
   public void Awake()
   {
